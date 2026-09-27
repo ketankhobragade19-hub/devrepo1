@@ -1,0 +1,15 @@
+{
+	"name": "ketan1devdatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c53fb49d-f4d3-4cb0-a564-4e0a2f1801aa",
+		"tenantId": "b6608ddc-cf03-47d5-acc1-2879854a27aa"
+	}
+}
